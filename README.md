@@ -12,7 +12,7 @@ Passionate Coder. Currently Front End Team Leader @ uDroppy Inc.
 
 *Languages / Tools:*
 
-<img align='left' alt='git'title="Git" src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" width='35'>
+<img align='left' alt='git' title="Git" src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" width='35'>
 <img align='left' alt='html' title="HTML 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width='35'>
 <img align='left' alt='css' title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width='35'>
 <img align='left' alt='javascript' title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width='35'>
