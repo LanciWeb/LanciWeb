@@ -18,11 +18,7 @@ Passionate Coder. Currently Front End Team Leader @ uDroppy Inc.
 <img align='left' alt='javascript' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width='35'>
 <img align='left' alt='react' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width='35'>
 <img align='left' alt='redux' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" width='35'>
-<img align='left' alt='node' src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4" width='35'/>
-<br/>
-<br/>
-
-<img align='left' alt='mongoDB' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width='50'>
+<img align='left' alt='node' src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4" width='35'/> <img align='left' alt='mongoDB' src="https://emanueleciriachi.net/wp-content/uploads/2019/01/logo-mongodb-png-mongodb-logo-png-400.png" width='35'>
 
 <br/>
 <br/>
