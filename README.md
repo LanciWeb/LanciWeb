@@ -4,7 +4,7 @@ Passionate Coder. Currently Front End Team Leader @ uDroppy Inc.
 
 *Connect with Me:*
 
-[<img align="left" src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30"> ](https://www.youtube.com/channel/UCBLfKjgrn98SRnjBMeTco_g?view_as=subscriber)
+[<img align="left" src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30"> ](https://www.linkedin.com/in/marcolancellotti/)
 
 <br/>
 
@@ -13,8 +13,8 @@ Passionate Coder. Currently Front End Team Leader @ uDroppy Inc.
 
 *Read my articles or whatch my videos:*
 
-[<img align="left" src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb.jpg" width="35" alt="Medium" title="Medium"> ](https://www.linkedin.com/in/marcolancellotti/)
-[<img align="left" src="https://images.vexels.com/media/users/3/137425/isolated/preview/f2ea1ded4d037633f687ee389a571086-youtube-icon-logo-by-vexels.png" width="35" alt="YouTube" title="YouTube"> ](https://www.linkedin.com/in/marcolancellotti/)
+[<img align="left" src="https://cdn.freebiesupply.com/images/large/2x/medium-icon-white-on-black.png" width="35" alt="Medium" title="Medium"> ](https://lancellotti-marco.medium.com/)
+[<img align="left" src="https://images.vexels.com/media/users/3/137425/isolated/preview/f2ea1ded4d037633f687ee389a571086-youtube-icon-logo-by-vexels.png" width="35" alt="YouTube" title="YouTube"> ](https://www.youtube.com/channel/UCBLfKjgrn98SRnjBMeTco_g?view_as=subscriber)
 <br/>
 
 ---
