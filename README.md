@@ -1,6 +1,6 @@
 # Hello, I'm [Marco Lancellotti](https://www.https://github.com/LanciWeb/)
 
-Passionate Coder. Currently Front End Team Leader @ uDroppy Inc.
+Passionate Coder. Currently Front End Developer @CWS Digital Solutions
 
 *Connect with Me:*
 
