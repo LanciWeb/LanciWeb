@@ -14,7 +14,7 @@ Passionate Coder. Coding Coach @Boolean Careers
 *Read my articles or whatch my videos:*
 
 [<img align="left" src="https://cdn.freebiesupply.com/images/large/2x/medium-icon-white-on-black.png" width="45" alt="Medium" title="Medium"> ](https://lancellotti-marco.medium.com/)
-[<img align="left" src="https://images.vexels.com/media/users/3/137425/isolated/preview/f2ea1ded4d037633f687ee389a571086-youtube-icon-logo-by-vexels.png" width="35" alt="YouTube" title="YouTube"> ](https://www.youtube.com/channel/UCBLfKjgrn98SRnjBMeTco_g?view_as=subscriber)
+[<img align="left" src="https://images.vexels.com/media/users/3/137425/isolated/preview/f2ea1ded4d037633f687ee389a571086-youtube-icon-logo-by-vexels.png" width="35" alt="YouTube" title="YouTube"> ](https://www.youtube.com/channel/UCBLfKjgrn98SRnjBMeTco_g/videos)
 <br/>
 
 ---
