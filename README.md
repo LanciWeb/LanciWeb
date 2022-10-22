@@ -28,7 +28,7 @@ Passionate Coder. Coding Coach @Boolean Careers
 <img align='left' alt='Bootstrap' title="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png" width='35'>
 <img align='left' alt='JavaScript' title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width='35'>
 <img align='left' alt='TypeScript' title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width='35'>
-<img align='left' alt='jQuery' title="jQuery" src="[https://vuejs.org/images/logo.png](https://w7.pngwing.com/pngs/606/221/png-transparent-jquery-original-logo-icon.png)" width='35'>
+<img align='left' alt='jQuery' title="jQuery" src="https://w7.pngwing.com/pngs/606/221/png-transparent-jquery-original-logo-icon.png" width='35'>
 <img align='left' alt='Vue.js' title="Vue.js" src="https://vuejs.org/images/logo.png" width='35'>
 <img align='left' alt='ReactJS' title="ReactJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width='35'>
 <img align='left' alt='Redux' title="Redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" width='35'>
