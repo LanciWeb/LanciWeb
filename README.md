@@ -33,11 +33,13 @@ Passionate Coder. Coding Coach @Boolean Careers
 <img align='left' alt='ReactJS' title="ReactJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width='35'>
 <img align='left' alt='Redux' title="Redux" src="https://cdn.worldvectorlogo.com/logos/redux.svg" width='35'>
 <img align='left' alt='Inertia' title="Inertia" src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4" width='35'>
-<img align='left' alt='Node.js' title="Node.js" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4" width='35'/> 
+
 <img align='left' alt='PHP' title="PHP" src="https://www.php.net/images/logos/php-logo-white.svg" width='35'>
 <img align='left' alt='Laravel' title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width='35'>
 <img align='left' alt='MySql' title="MySQL" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width='35'>
-<img align='left' alt='MongoDB' src="https://emanueleciriachi.net/wp-content/uploads/2019/01/logo-mongodb-png-mongodb-logo-png-400.png" width='35' title="MongoDB">
+<!-- 
+<img align='left' alt='Node.js' title="Node.js" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4" width='35'/> 
+<img align='left' alt='MongoDB' src="https://emanueleciriachi.net/wp-content/uploads/2019/01/logo-mongodb-png-mongodb-logo-png-400.png" width='35' title="MongoDB"> -->
 <br/>
 <br/>
 
