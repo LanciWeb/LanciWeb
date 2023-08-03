@@ -45,6 +45,6 @@ Passionate Coder. Coding Coach @Boolean Careers
 
 ---
 
-## :trophy: My Github Stats:
+<!-- ## :trophy: My Github Stats:
 
 [![LanciWeb github stats](https://github-readme-stats.vercel.app/api?username=LanciWeb&show_icons=true&theme=tokyonight)](https://github.com/LanciWeb/github-readme-stats)
